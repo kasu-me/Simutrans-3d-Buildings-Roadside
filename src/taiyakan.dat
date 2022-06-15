@@ -1,0 +1,12 @@
+Obj=building
+Name=Taiyakan
+dims=1,2,1
+Type=cur
+Level=2
+Passengers=2
+Build_Time=0
+Chance=1
+NoConstruction=1
+needs_ground=1
+BackImage[0][0][0][0][0][0]=taiyakan.0.0
+BackImage[0][1][0][0][0][0]=taiyakan.0.1
