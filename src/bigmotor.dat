@@ -1,0 +1,15 @@
+Obj=building
+Name=mk_bigmotor
+Type=cur
+Passengers=25
+dims=2,2,2
+Passengers=2
+needs_ground=0
+BackImage[0][0][0][0][0][0]=bigmotor.0.0
+BackImage[0][0][1][0][0][0]=bigmotor.0.1
+BackImage[0][1][0][0][0][0]=bigmotor.0.2
+BackImage[0][1][1][0][0][0]=bigmotor.1.0
+BackImage[1][0][0][0][0][0]=bigmotor.1.1
+BackImage[1][0][1][0][0][0]=bigmotor.1.2
+BackImage[1][1][0][0][0][0]=bigmotor.2.0
+BackImage[1][1][1][0][0][0]=bigmotor.2.1
